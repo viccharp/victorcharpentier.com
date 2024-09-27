@@ -1,10 +1,10 @@
-# henrik.nyh.se
+# victorcharpentier.com
 
-<https://henrik.nyh.se/>
+<https://victorcharpentier.com/>
 
 Built with [Middleman](https://middlemanapp.com/).
 
-Deployed to [Netlify](https://www.netlify.com/).
+Inspired by the beautiful work of [henrik Nyh](<https://henrik.nyh.se/>) 
 
 ## Development
 
