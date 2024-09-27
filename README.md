@@ -4,7 +4,7 @@
 
 Built with [Middleman](https://middlemanapp.com/).
 
-Inspired by the beautiful work of [henrik Nyh](<https://henrik.nyh.se/>) 
+Inspired by the beautiful work of [Henrik Nyh](<https://henrik.nyh.se/>) 
 
 ## Development
 
