@@ -4,8 +4,11 @@ source "https://rubygems.org"
 ruby "~> 3.1"
 
 gem "middleman"
+gem "middleman-livereload"
 
 # Required for Slim: https://github.com/slim-template/slim/issues/909
 gem "actionview"
 
 gem "slim"
+
+
