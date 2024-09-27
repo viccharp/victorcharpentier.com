@@ -13,6 +13,8 @@ page "/*.json", layout: false
 page "/*.txt", layout: false
 page "/weeknotes/*", layout: "weeknote"
 
+activate :livereload
+
 # Methods defined in the helpers block are available in templates.
 # https://middlemanapp.com/basics/helper-methods/
 
