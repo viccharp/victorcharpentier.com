@@ -51,5 +51,5 @@ helpers do
     content_tag(:div, class: "weeknote-separator") { "✧" * 3 }
   end
 
-  def site_name = "Henrik Nyh"
+  def site_name = "Victor Charpentier"
 end
